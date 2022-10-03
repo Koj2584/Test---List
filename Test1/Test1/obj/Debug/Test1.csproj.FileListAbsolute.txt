@@ -1,0 +1,10 @@
+M:\ITB3\vomelaj.05\Dokumenty\Csharp\Test1\Test1\bin\Debug\Test1.exe.config
+M:\ITB3\vomelaj.05\Dokumenty\Csharp\Test1\Test1\bin\Debug\Test1.exe
+M:\ITB3\vomelaj.05\Dokumenty\Csharp\Test1\Test1\bin\Debug\Test1.pdb
+M:\ITB3\vomelaj.05\Dokumenty\Csharp\Test1\Test1\obj\Debug\Test1.csprojAssemblyReference.cache
+M:\ITB3\vomelaj.05\Dokumenty\Csharp\Test1\Test1\obj\Debug\Test1.Form1.resources
+M:\ITB3\vomelaj.05\Dokumenty\Csharp\Test1\Test1\obj\Debug\Test1.Properties.Resources.resources
+M:\ITB3\vomelaj.05\Dokumenty\Csharp\Test1\Test1\obj\Debug\Test1.csproj.GenerateResource.cache
+M:\ITB3\vomelaj.05\Dokumenty\Csharp\Test1\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+M:\ITB3\vomelaj.05\Dokumenty\Csharp\Test1\Test1\obj\Debug\Test1.exe
+M:\ITB3\vomelaj.05\Dokumenty\Csharp\Test1\Test1\obj\Debug\Test1.pdb
